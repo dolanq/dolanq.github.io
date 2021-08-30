@@ -18,6 +18,8 @@ Some other interesting facts about me is I am left-handed, I have mild Deuterano
 I am half-Japanese on my mom's side and have always been interested in Japanese language and culture, from Anime, Music, etc. I took Japanese all throughout High School. I originally went to Hawaii Tokai University in West-Oahu campus but couldn't take the pressure of not speaking Japanese, when no one else spoke english. 
 My mother was born in Japan but was adopted to Japanese parents in Hawaii at 2 years old, my Dad is from California but grew up in Minnapolis, Minnesota left when he was 13 and lived on this own. They met in college at UH Manoa.
 
-Recently I have been into Russian War music. I made a playlist on Youtube, link is on this site's homepage. I am taking a MIS major because I've always been interested in technology and it seemed like the most practical choice for a career compared to political science (my original major).
+I am taking the MIS major because I've always been interested in technology and it seemed like the most practical choice for a career compared to political science (my original major).
 
 Some of my favorite video game series is the Metro series: 2033, 2034 and Exodus, Metroid Prime, Steins Gate, Hearts of Iron 4, Civilization 4/5.(there is a lot more, this is just off the top of my head)
+
+Recently I have been into Russian War music. I made a playlist on Youtube, link is on this site's homepage in the Youtube icon.
