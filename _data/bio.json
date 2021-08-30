@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Quinn Dolan",
-    "label": "undergraduate student at Shilder",
+    "label": "Undergraduate student at Shilder",
     "picture": "https://dolanq.github.io/images/face%20(2).png",
     "email": "dolanq@hawaii.edu",
     "phone": "808-260-7229",
@@ -27,7 +27,7 @@
       },
       {
         "network": "youtube",
-        "username": "mollymal",
+        "username": "Playlist",
         "url": "https://www.youtube.com/playlist?list=PLnI2suDAaiPfe9GmUTY5UiaZJCGkM5nw3"
       }
     ]
@@ -36,8 +36,8 @@
     {
       "name": "Anime",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Neon Genesis Evangelion",
+        "Attack on Titan"
       ]
     },
     {
