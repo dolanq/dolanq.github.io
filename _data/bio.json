@@ -21,11 +21,6 @@
         "url": "http://github.com/dolanq"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
         "network": "instagram",
         "username": "quinny_dolando",
         "url": "https://www.instagram.com/quinny_dolando/"
@@ -34,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
         "Arduino",
         "TI MSP430"
