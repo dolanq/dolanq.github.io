@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: 
 image: images/cotton-square.png
 title: Cotton
 permalink: projects/cotton
