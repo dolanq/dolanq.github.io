@@ -112,15 +112,15 @@
          ]
       },
       {
-         "company":"UH Information Technology Services",
-         "position":"Help Desk Consultant",
-         "website":"http://www.hawaii.edu/its/",
-         "startDate":"2015-01-01",
-         "endDate":"2016-03-15",
+         "company":"State of Hawaii Office of Elections",
+         "position":"Election Day Official",
+         "website":"https://elections.hawaii.gov/",
+         "startDate":"2016-06-01",
+         "endDate":"2016-11-15",
          "summary":"",
          "highlights":[
-            "Troubleshoot software, hardware and networking issues over the phone",
-            "Answer phone and email responses to the ITS Help Desk"
+            "Assisted voters at the polling place while ensuring the integrity of the voting process.",
+            "Operated the information and Ballot Demonstration Station, Poll Book Station, Ballot Box Station, and eSlate Station."
          ]
       }
    ],
