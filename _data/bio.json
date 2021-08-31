@@ -1,163 +1,168 @@
 {
-  "basics": {
-    "name": "Quinn Dolan",
-    "label": "Undergraduate student at Shilder",
-    "picture": "https://dolanq.github.io/images/face%20(2).png",
-    "email": "dolanq@hawaii.edu",
-    "phone": "808-260-7228",
-    "website": "https://dolanq.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems in Shilder College of Business at the University of Hawaii Manoa. I expect to graduate in Fall, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96782",
-      "city": "Pearl City",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Quinn Dolan",
+      "label":"Undergraduate student at Shilder",
+      "picture":"https://dolanq.github.io/images/face%20(2).png",
+      "email":"dolanq@hawaii.edu",
+      "phone":"808-260-7228",
+      "website":"https://dolanq.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems in Shilder College of Business at the University of Hawaii Manoa. I expect to graduate in Fall, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96782",
+         "city":"Pearl City",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"dolanq",
+            "url":"http://github.com/dolanq"
+         },
+         {
+            "network":"instagram",
+            "username":"quinny_dolando",
+            "url":"https://www.instagram.com/quinny_dolando/"
+         },
+         {
+            "network":"youtube",
+            "username":"Playlist",
+            "url":"https://www.youtube.com/playlist?list=PLnI2suDAaiPfe9GmUTY5UiaZJCGkM5nw3"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "dolanq",
-        "url": "http://github.com/dolanq"
+         "name":"Anime",
+         "keywords":[
+            "Neon Genesis Evangelion",
+            "Attack on Titan"
+         ]
       },
       {
-        "network": "instagram",
-        "username": "quinny_dolando",
-        "url": "https://www.instagram.com/quinny_dolando/"
+         "name":"Gaming",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "youtube",
-        "username": "Playlist",
-        "url": "https://www.youtube.com/playlist?list=PLnI2suDAaiPfe9GmUTY5UiaZJCGkM5nw3"
+         "name":"Alt-History",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Vaporwave, Lofi, A E S T H E T I C S",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":" Russian/Serbian Music",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Anime",
-      "keywords": [
-        "Neon Genesis Evangelion",
-        "Attack on Titan"
-      ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Alt-History",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Vaporwave, Lofi, A E S T H E T I C S",
-      "keywords": [
-      ]
-    },
-    {
-      "name": " Russian/Serbian Music",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "level": "",
-      "keywords": [
-        "English",
-        "Internet slang",
-        "Japanese"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Windows 10",
-        "Git/GitHub"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii at Manoa",
-      "area": "Management Information Systems (expected Fall, 2022)",
-      "studyType": "B.B.A.",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Kupu Hawaii Program",
-      "website": "https://www.kupuhawaii.org/",
-      "position": "team member",
-      "startDate": "March 2019",
-      "endDate": "May 2019",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "● Completed 300+ hours of Community service and environmental service work including: picking kalo, lifting heavy objects, making a pohaku, and picking up trash on the beach",
-        "● Learned about Native Hawaiian culture and language following a set schedule every day.",
-        "● Demonstrated strong teamwork and interest in learning new skills."
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages",
+         "level":"",
+         "keywords":[
+            "English",
+            "Internet slang",
+            "Japanese"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "Windows 10",
+            "Git/GitHub"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii at Manoa",
+         "area":"Management Information Systems (expected Fall, 2022)",
+         "studyType":"B.B.A.",
+         "startDate":"2020-09-01",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"UH Manoa Board of Publications",
+         "position":"Web Developer",
+         "website":"",
+         "startDate":"2015-08-01",
+         "endDate":"Present",
+         "summary":"Head of online presence for Ka Leo",
+         "highlights":[
+            "Maintain, update, and oversee official college newspaper website",
+            "Drive, design and build student-community projects for UH Manoa"
+         ]
+      },
+      {
+         "company":"UH Information Technology Services",
+         "position":"Help Desk Consultant",
+         "website":"http://www.hawaii.edu/its/",
+         "startDate":"2015-01-01",
+         "endDate":"2016-03-15",
+         "summary":"",
+         "highlights":[
+            "Troubleshoot software, hardware and networking issues over the phone",
+            "Answer phone and email responses to the ITS Help Desk"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Kupu Hawaii Program",
+         "website":"https://www.kupuhawaii.org/",
+         "position":"team member",
+         "startDate":"March 2019",
+         "endDate":"May 2019",
+         "summary":"Lead developer for weather sensing project",
+         "highlights":[
+            "● Completed 300+ hours of Community service and environmental service work including: picking kalo, lifting heavy objects, making a pohaku, and picking up trash on the beach",
+            "● Learned about Native Hawaiian culture and language following a set schedule every day.",
+            "● Demonstrated strong teamwork and interest in learning new skills."
+         ]
+      },
+      {
+         "organization":"",
+         "website":"",
+         "position":"",
+         "startDate":"",
+         "endDate":"",
+         "summary":"",
+         "highlights":[
+            "",
+            "",
+            ""
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"B+ Scholarship",
+         "date":"2013-Present",
+         "awarder":"State of Hawaii",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
