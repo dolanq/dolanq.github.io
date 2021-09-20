@@ -14,3 +14,4 @@ The first issue I had was finding an adequate recording software to use. I thoug
 
 --The next morning--
   
+I prepared myself for the worst praying that the new software would do what OBS could not. Luckly I was afraid of nothing the software worked fine and I uploaded it to Youtube. Finally, I fininshed the first one, two more to go.
