@@ -23,4 +23,5 @@ Everything seemed to be coming along. So I started on BrowserHistory 2, however 
 Then I had to save the file as an mp3 file, convert the original video to a mp4 without sound and splice the two files together insync using VLC media player. Since my laptop was old it took 40 mins to convert to remove the sound and 40 more mins to add the new sound. The moral of this story is to not cut corners and take the fast way out, it may lead to more hardship in the long run, also buy a good mic.
 
 --Wod 3--The next day
-When I started browserhistory 3 I was completely burned out from the previous day. When I tried to do the wod I had completely no clue how to do it. After attempting on my own for 20 mins I decided to look at the screencast for help.
+
+When I started browserhistory 3 I was completely burned out from the previous day. When I tried to do the wod I had completely no clue how to do it. After attempting on my own for 20 mins I decided to look at the screencast for help. After watching the video I still was lost so I watched it three times. 
