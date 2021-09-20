@@ -8,5 +8,5 @@ labels:
   - Be Prepared 
   - Don't do things last minute
 ---
-My BrowserHistory WOD journey began with a hitch. 
+My BrowserHistory WOD journey began without a hitch... or so I thought.  
   
