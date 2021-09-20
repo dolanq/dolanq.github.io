@@ -15,3 +15,6 @@ The first issue I had was finding an adequate recording software to use. I thoug
 --The next morning--
   
 I prepared myself for the worst praying that the new software would do what OBS could not. Luckly I was afraid of nothing the software worked fine and I uploaded it to Youtube. Finally, I fininshed the first one, two more to go. It took me around an hour to get the WOD completed in under 25 minutes, I took 3 tries in a row. What I learned from this wod was that practice makes perfect. I had to look up the answers so many times that eventually I remembered what to type without searching on the net. After I finished I watched the screencast of an example of how to do it. I quickly realized that I didn't do it the same way as the video. Which was a good think if it still works.
+
+--Wod 2--The Fallen Tragedy--
+Everything seemed to be coming along. So I started on BrowserHistory 2, however little did I know my arch nemesis, the stuttering bad mic had returned. I felt like Obi-wan on Mustafar with Anakin. "You where the chosen one flashback express, you where supposed to defeat the audio errors not join them."
