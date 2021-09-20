@@ -25,3 +25,6 @@ Then I had to save the file as an mp3 file, convert the original video to a mp4 
 --Wod 3--The next day
 
 When I started browserhistory 3 I was completely burned out from the previous day. When I tried to do the wod I had completely no clue how to do it. After attempting on my own for 20 mins I decided to look at the screencast for help. After watching the video I still was lost so I watched it three times. I really had a trouble with getting the paragraphs into 3 columns. But over trial and error and nearly banging my head against the keyboard in frustration I finally did it. And thank god the audio wasn't messed up. One lesson I think you should take away from this story is to never give up, despite all odds there is always a way out of that hole you dug yourself in. (Which may bury you alive one day).
+
+
+--The End--
