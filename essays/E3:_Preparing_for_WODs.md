@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: essays
+type: essays
 title: E3: Preparing for WODs Essay
 date: 2021-09-27
 labels:
