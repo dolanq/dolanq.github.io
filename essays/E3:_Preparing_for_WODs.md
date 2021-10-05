@@ -8,9 +8,7 @@ labels:
   - 2
   - Placeholder
 --- 
-Invoice 1 was the first WOD where we where required to use dynamic variables and output the results of five different products inside of a table. As opposed to manually hard coding the table's values.
-
-[Link to further details:](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
+Invoice 1 was the first WOD where we where required to use dynamic variables and output the results of five different products inside of a table. As opposed to manually hard coding the table's values.[Link to further details:](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
 
 2) Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
 
