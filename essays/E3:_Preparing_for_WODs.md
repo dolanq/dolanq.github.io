@@ -16,3 +16,4 @@ labels:
 3) Describe what you to did to prepare. What did you do similarly or differently from the WOD before this?
 
 4) Discuss what you could have done to be better prepared and what you might try differently for the next WOD.
+ Find a better recording software that doesn't cut out every sentance, it would take too long to manually edit the audio of 30 mins
