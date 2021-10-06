@@ -4,8 +4,8 @@ type: essay
 title: "E3: Preparing for WODs Essay"
 date: 2021-09-27
 labels:
-  -Strange 
-  -My Second journal entry
+  - Strange 
+  - My Second journal entry
   - Despite it saying E3
 --- 
 Invoice 1 was the first WOD where we were required to use dynamic variables and output the results of five different products inside of a table. As opposed to manually hard coding the table's values.[Link to further details:](https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html)
