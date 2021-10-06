@@ -12,7 +12,7 @@ Invoice 1 was the first WOD where we were required to use dynamic variables and 
 
 2) Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
 
-Over all my experience with Invoice 1 wod was acceptable. I had no trouble with formulating all of the data variables and items. I mainly used copy and paste and ctrl-F and replace all of the numbers from item1, quantity1, price1, etc. The only slag I was confused on was inserting the variables into the table correctly. 
+Over all my experience with Invoice 1 wod was acceptable. I had no trouble with formulating all of the data variables and items. I mainly used copy and paste and ctrl-F and replace all of the numbers from item1, quantity1, price1, etc. The only slag I was confused on was inserting the variables into the table correctly. This was because I was not sure to use backtick literals as a string or the object method.
 
 3) Describe what you did to prepare. What did you do similarly or differently from the WOD before this?
 
