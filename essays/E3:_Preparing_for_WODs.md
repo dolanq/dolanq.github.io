@@ -12,7 +12,7 @@ Invoice 1 was the first WOD where we were required to use dynamic variables and 
 
 2) Discuss your experiences in performing the WOD. What worked well, what did you stumble on or slowed you down.
 
-Over all my experience with Invoice 1 wod was acceptable 
+Over all my experience with Invoice 1 wod was acceptable. 
 
 3) Describe what you did to prepare. What did you do similarly or differently from the WOD before this?
 
